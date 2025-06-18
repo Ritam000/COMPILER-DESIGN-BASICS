@@ -18,3 +18,6 @@ The given C++ program is a robust and instructive implementation of a mathematic
 
 
 OUTPUT:
+
+
+![Image](https://github.com/user-attachments/assets/c377e821-81fb-42de-afac-48a4ecc3c4c9)
